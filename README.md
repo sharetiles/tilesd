@@ -1,2 +1,2 @@
 # tilesd
-The Swift / Wasm runtime that powers Tiles runtime
+The Swift / Wasm runtime that powers Tiles launcher
